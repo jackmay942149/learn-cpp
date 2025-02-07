@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\dev\\learn-cpp\\chapter-1\\DoubleThatNumber\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E62C593C-F04F-4585-8D35-0B861D79213D}|..\\AddAndSubtract\\AddAndSubtract.vcxproj|C:\\dev\\learn-cpp\\chapter-1\\AddAndSubtract\\AddAndSubtract.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C66A4262-4888-4A27-9F9F-AF9AC0A3B087}|DoubleThatNumber.vcxproj|C:\\dev\\learn-cpp\\chapter-1\\DoubleThatNumber\\src\\DoubleThatNumber.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C66A4262-4888-4A27-9F9F-AF9AC0A3B087}|DoubleThatNumber.vcxproj|solutionrelative:src\\DoubleThatNumber.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddAndSubtract.cpp",
+              "DocumentMoniker": "C:\\dev\\learn-cpp\\chapter-1\\AddAndSubtract\\AddAndSubtract.cpp",
+              "RelativeDocumentMoniker": "..\\AddAndSubtract\\AddAndSubtract.cpp",
+              "ToolTip": "C:\\dev\\learn-cpp\\chapter-1\\AddAndSubtract\\AddAndSubtract.cpp",
+              "RelativeToolTip": "..\\AddAndSubtract\\AddAndSubtract.cpp",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-07T03:57:00.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DoubleThatNumber.cpp",
+              "DocumentMoniker": "C:\\dev\\learn-cpp\\chapter-1\\DoubleThatNumber\\src\\DoubleThatNumber.cpp",
+              "RelativeDocumentMoniker": "src\\DoubleThatNumber.cpp",
+              "ToolTip": "C:\\dev\\learn-cpp\\chapter-1\\DoubleThatNumber\\src\\DoubleThatNumber.cpp",
+              "RelativeToolTip": "src\\DoubleThatNumber.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-07T03:34:05.354Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
