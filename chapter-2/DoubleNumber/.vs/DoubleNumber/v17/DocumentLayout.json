@@ -3,8 +3,13 @@
   "WorkspaceRootPath": "C:\\dev\\learn-cpp\\chapter-2\\DoubleNumber\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D737D549-E9E3-49C1-A30B-477735F4FD8C}|DoubleNumber.vcxproj|C:\\dev\\learn-cpp\\chapter-2\\DoubleNumber\\DoubleNumber.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D737D549-E9E3-49C1-A30B-477735F4FD8C}|DoubleNumber.vcxproj|solutionrelative:DoubleNumber.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{6FED4ADB-1B0A-46D9-A12D-B101935C459D}|..\\Q1\\Q1.vcxproj|C:\\dev\\learn-cpp\\chapter-2\\Q1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FED4ADB-1B0A-46D9-A12D-B101935C459D}|..\\Q1\\Q1.vcxproj|C:\\dev\\learn-cpp\\chapter-2\\Q1\\io.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FED4ADB-1B0A-46D9-A12D-B101935C459D}|..\\Q1\\Q1.vcxproj|C:\\dev\\learn-cpp\\chapter-2\\Q1\\io.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +19,46 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DoubleNumber.cpp",
-              "DocumentMoniker": "C:\\dev\\learn-cpp\\chapter-2\\DoubleNumber\\DoubleNumber.cpp",
-              "RelativeDocumentMoniker": "DoubleNumber.cpp",
-              "ToolTip": "C:\\dev\\learn-cpp\\chapter-2\\DoubleNumber\\DoubleNumber.cpp",
-              "RelativeToolTip": "DoubleNumber.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "io.h",
+              "DocumentMoniker": "C:\\dev\\learn-cpp\\chapter-2\\Q1\\io.h",
+              "RelativeDocumentMoniker": "..\\Q1\\io.h",
+              "ToolTip": "C:\\dev\\learn-cpp\\chapter-2\\Q1\\io.h",
+              "RelativeToolTip": "..\\Q1\\io.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-08T03:09:49.923Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "io.cpp",
+              "DocumentMoniker": "C:\\dev\\learn-cpp\\chapter-2\\Q1\\io.cpp",
+              "RelativeDocumentMoniker": "..\\Q1\\io.cpp",
+              "ToolTip": "C:\\dev\\learn-cpp\\chapter-2\\Q1\\io.cpp",
+              "RelativeToolTip": "..\\Q1\\io.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-07T04:41:18.48Z",
+              "WhenOpened": "2025-02-08T03:04:26.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\dev\\learn-cpp\\chapter-2\\Q1\\main.cpp",
+              "RelativeDocumentMoniker": "..\\Q1\\main.cpp",
+              "ToolTip": "C:\\dev\\learn-cpp\\chapter-2\\Q1\\main.cpp",
+              "RelativeToolTip": "..\\Q1\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-08T02:58:44.349Z",
               "EditorCaption": ""
             }
           ]
