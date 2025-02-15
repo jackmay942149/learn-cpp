@@ -1,0 +1,51 @@
+# Visual Studio files
+**/.vs/
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build and output directories
+bin/
+obj/
+[Bb]uild/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+*.sln.cache
+
+# NuGet packages
+*.nupkg
+packages/
+*.snupkg
+
+# Configuration files
+appsettings.*.json
+secrets.json
+
+# IDE-specific files
+.vs/
+*.VC.db
+*.VC.VC.opendb
+
+# Coverage and analysis
+TestResults/
+*.coverage
+*.coveragexml
+*.testsettings
+
+# User-specific files
+*.rsuser
+*.sln.ide
+*.suo
+
+# Git-specific
+.gitattributes
