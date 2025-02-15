@@ -1,7 +1,0 @@
-﻿  main.cpp
-C:\dev\learn-cpp\BitManipulation\Q1\main.cpp(7,5): warning C5051: attribute [[maybe_unused]] requires at least '/std:c++17'; ignored
-C:\dev\learn-cpp\BitManipulation\Q1\main.cpp(8,5): warning C5051: attribute [[maybe_unused]] requires at least '/std:c++17'; ignored
-C:\dev\learn-cpp\BitManipulation\Q1\main.cpp(9,5): warning C5051: attribute [[maybe_unused]] requires at least '/std:c++17'; ignored
-C:\dev\learn-cpp\BitManipulation\Q1\main.cpp(10,5): warning C5051: attribute [[maybe_unused]] requires at least '/std:c++17'; ignored
-C:\dev\learn-cpp\BitManipulation\Q1\main.cpp(11,5): warning C5051: attribute [[maybe_unused]] requires at least '/std:c++17'; ignored
-  Q1.vcxproj -> C:\dev\learn-cpp\BitManipulation\x64\Debug\Q1.exe
