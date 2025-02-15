@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\dev\\learn-cpp\\chapter-5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC74D26B-DE3D-4091-BFFC-D949D323794E}|Q4\\Q4.vcxproj|C:\\dev\\learn-cpp\\chapter-5\\Q4\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CC74D26B-DE3D-4091-BFFC-D949D323794E}|Q4\\Q4.vcxproj|solutionrelative:Q4\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FA760D0-365A-4BD8-B67A-2C883A0BC775}|Q3\\Q3.vcxproj|C:\\dev\\learn-cpp\\chapter-5\\Q3\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4FA760D0-365A-4BD8-B67A-2C883A0BC775}|Q3\\Q3.vcxproj|solutionrelative:Q3\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\dev\\learn-cpp\\chapter-5\\Q4\\main.cpp",
+              "RelativeDocumentMoniker": "Q4\\main.cpp",
+              "ToolTip": "C:\\dev\\learn-cpp\\chapter-5\\Q4\\main.cpp",
+              "RelativeToolTip": "Q4\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-12T00:26:26.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\dev\\learn-cpp\\chapter-5\\Q3\\main.cpp",
+              "RelativeDocumentMoniker": "Q3\\main.cpp",
+              "ToolTip": "C:\\dev\\learn-cpp\\chapter-5\\Q3\\main.cpp",
+              "RelativeToolTip": "Q3\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-12T00:15:19.01Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

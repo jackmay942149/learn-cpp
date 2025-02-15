@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\dev\\learn-cpp\\chapter-4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC5534E-B4CC-4236-AA34-2AF4D1C00141}|Q3\\Q3.vcxproj|C:\\dev\\learn-cpp\\chapter-4\\Q3\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3AC5534E-B4CC-4236-AA34-2AF4D1C00141}|Q3\\Q3.vcxproj|solutionrelative:Q3\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{837E2C80-82DF-4AE5-9135-ACEE07EBCF7D}|Q2\\Q2.vcxproj|C:\\dev\\learn-cpp\\chapter-4\\Q2\\Q2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{837E2C80-82DF-4AE5-9135-ACEE07EBCF7D}|Q2\\Q2.vcxproj|solutionrelative:Q2\\Q2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43F52FA9-8E7A-487F-86D0-965D24ABF21A}|ASCIITRep\\ASCIITRep.vcxproj|C:\\dev\\learn-cpp\\chapter-4\\ASCIITRep\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{43F52FA9-8E7A-487F-86D0-965D24ABF21A}|ASCIITRep\\ASCIITRep.vcxproj|solutionrelative:ASCIITRep\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FD49271-F5A1-4D1D-BEA2-4744184135F3}|PrimeNumber\\PrimeNumber.vcxproj|C:\\dev\\learn-cpp\\chapter-4\\PrimeNumber\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4FD49271-F5A1-4D1D-BEA2-4744184135F3}|PrimeNumber\\PrimeNumber.vcxproj|solutionrelative:PrimeNumber\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\dev\\learn-cpp\\chapter-4\\Q3\\main.cpp",
+              "RelativeDocumentMoniker": "Q3\\main.cpp",
+              "ToolTip": "C:\\dev\\learn-cpp\\chapter-4\\Q3\\main.cpp",
+              "RelativeToolTip": "Q3\\main.cpp",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwBcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-10T02:53:29.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Q2.cpp",
+              "DocumentMoniker": "C:\\dev\\learn-cpp\\chapter-4\\Q2\\Q2.cpp",
+              "RelativeDocumentMoniker": "Q2\\Q2.cpp",
+              "ToolTip": "C:\\dev\\learn-cpp\\chapter-4\\Q2\\Q2.cpp",
+              "RelativeToolTip": "Q2\\Q2.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-10T02:41:03.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\dev\\learn-cpp\\chapter-4\\ASCIITRep\\main.cpp",
+              "RelativeDocumentMoniker": "ASCIITRep\\main.cpp",
+              "ToolTip": "C:\\dev\\learn-cpp\\chapter-4\\ASCIITRep\\main.cpp",
+              "RelativeToolTip": "ASCIITRep\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-09T10:45:01.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\dev\\learn-cpp\\chapter-4\\PrimeNumber\\main.cpp",
+              "RelativeDocumentMoniker": "PrimeNumber\\main.cpp",
+              "ToolTip": "C:\\dev\\learn-cpp\\chapter-4\\PrimeNumber\\main.cpp",
+              "RelativeToolTip": "PrimeNumber\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-09T08:34:09.983Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
